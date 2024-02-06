@@ -1,4 +1,4 @@
 # namedemo
 this is my first repo and i can say Hello World
 <br/>
-Author Name Vikash chauhan
+Author Name Vikku Jain
